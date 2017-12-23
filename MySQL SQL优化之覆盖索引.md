@@ -7,4 +7,4 @@
 
 表结构如下
 
-![GitHub Logo](/image/1.jpg "1.jpg")  
+![GitHub Logo](/image/1.jpg "#")  
