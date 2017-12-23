@@ -6,4 +6,5 @@
 优化前的表结构、数据量、SQL、执行计划、执行时间
 
 表结构如下
-![](http://oo9zgdmxh.bkt.clouddn.com/bVZThG.png)
+
+![GitHub Logo](/image/1.jpg "1.jpg")  
